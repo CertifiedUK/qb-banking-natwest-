@@ -1,4 +1,4 @@
-# qb-banking
+# qb-banking reskinned with Natwest designs
 
 # License
 
